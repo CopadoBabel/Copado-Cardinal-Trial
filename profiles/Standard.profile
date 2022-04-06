@@ -561,6 +561,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
+        <field>Cardinal__c.Field_1__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
         <field>Case.AccountId</field>
         <readable>true</readable>
     </fieldPermissions>
